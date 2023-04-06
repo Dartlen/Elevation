@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date">Start: %s</string>
+    <string name="distance">Length: %s</string>
+    <string name="finishing">Finish: %s</string>
+    <string name="max_elevation">Elevation: %s</string>
+</resources>

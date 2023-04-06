@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history_empty_error">The list of routes is empty</string>
+    <string name="history_empty_description">Let\'s go to forward new elevations</string>
+</resources>

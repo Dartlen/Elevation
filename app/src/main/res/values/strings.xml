@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elevation</string>
+    <string name="not_connected">⚠️ You aren’t connected to the internet</string>
+    <string name="top_app_bar_action_icon_description">Settings</string>
+    <string name="for_you">Elevation</string>
+    <string name="interests">History</string>
+</resources>
